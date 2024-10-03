@@ -21,4 +21,3 @@ $(RELEASE_EXEC): $(SOURCES)
 
 clean:
 	rm -f $(RELEASE_EXEC) $(DEBUG_EXEC)
-
